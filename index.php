@@ -101,7 +101,7 @@ margin-top:20px;
 <ul>
 
 <li><a href="index.php">Home</a></li>
-<li><a href="about.php">About Us</a></li>
+<li><a href="aboutus.php">About Us</a></li>
 
 <?php
 if(isset($_SESSION['user'])){
